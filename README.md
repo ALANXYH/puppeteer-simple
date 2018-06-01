@@ -1,1 +1,1 @@
-pupper-simple
+puppeteer-simple
